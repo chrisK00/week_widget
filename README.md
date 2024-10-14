@@ -5,4 +5,4 @@ week_widget.xml <- UI
 week_widget_info.xml <- config
 
 flutter build apk --split-per-abi
-flutter install --device-id  SM S926B --use-application-binary=build\app\outputs\flutter-apk\app-arm64-v8a-release.apk
+flutter install --device-id id  --use-application-binary=build\app\outputs\flutter-apk\app-arm64-v8a-release.apk
