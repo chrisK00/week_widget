@@ -3,4 +3,9 @@
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
     <string name="app_widget_description">This is an app widget description</string>
+    <string name="week_label">Week</string>
+    <string name="widget_light_name">Week number (light)</string>
+    <string name="widget_dark_name">Week number (dark)</string>
+    <string name="widget_light_description">Week number on a light background</string>
+    <string name="widget_dark_description">Week number on a dark background</string>
 </resources>
